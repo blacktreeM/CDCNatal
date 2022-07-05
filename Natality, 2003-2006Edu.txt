@@ -1,0 +1,2087 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Marital Status"	"Marital Status Code"	"Mother's Education"	"Mother's Education Code"	Births
+	"Alabama"	"01"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1503
+	"Alabama"	"01"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	3989
+	"Alabama"	"01"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	10379
+	"Alabama"	"01"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	10295
+	"Alabama"	"01"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	12512
+	"Alabama"	"01"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	47
+	"Alabama"	"01"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1150
+	"Alabama"	"01"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6484
+	"Alabama"	"01"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	8213
+	"Alabama"	"01"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4100
+	"Alabama"	"01"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	803
+	"Alabama"	"01"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	77
+	"Alabama"	"01"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	1524
+	"Alabama"	"01"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	3851
+	"Alabama"	"01"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	9774
+	"Alabama"	"01"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	10251
+	"Alabama"	"01"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	12234
+	"Alabama"	"01"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	310
+	"Alabama"	"01"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1100
+	"Alabama"	"01"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6731
+	"Alabama"	"01"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	8431
+	"Alabama"	"01"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4344
+	"Alabama"	"01"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	865
+	"Alabama"	"01"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	95
+	"Alabama"	"01"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1830
+	"Alabama"	"01"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	4086
+	"Alabama"	"01"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	10035
+	"Alabama"	"01"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	10026
+	"Alabama"	"01"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	12467
+	"Alabama"	"01"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	430
+	"Alabama"	"01"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1085
+	"Alabama"	"01"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6257
+	"Alabama"	"01"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	8525
+	"Alabama"	"01"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4561
+	"Alabama"	"01"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1045
+	"Alabama"	"01"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	106
+	"Alabama"	"01"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	2192
+	"Alabama"	"01"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	4179
+	"Alabama"	"01"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	10143
+	"Alabama"	"01"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	10266
+	"Alabama"	"01"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	12840
+	"Alabama"	"01"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	449
+	"Alabama"	"01"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1196
+	"Alabama"	"01"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6667
+	"Alabama"	"01"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	9136
+	"Alabama"	"01"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4862
+	"Alabama"	"01"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1172
+	"Alabama"	"01"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	130
+	"Alaska"	"02"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	67
+	"Alaska"	"02"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	383
+	"Alaska"	"02"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	2301
+	"Alaska"	"02"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	1975
+	"Alaska"	"02"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	1627
+	"Alaska"	"02"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	246
+	"Alaska"	"02"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	99
+	"Alaska"	"02"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	846
+	"Alaska"	"02"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	1662
+	"Alaska"	"02"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	583
+	"Alaska"	"02"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	152
+	"Alaska"	"02"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	145
+	"Alaska"	"02"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	63
+	"Alaska"	"02"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	357
+	"Alaska"	"02"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	2319
+	"Alaska"	"02"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	1923
+	"Alaska"	"02"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	1606
+	"Alaska"	"02"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	493
+	"Alaska"	"02"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	88
+	"Alaska"	"02"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	847
+	"Alaska"	"02"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	1749
+	"Alaska"	"02"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	571
+	"Alaska"	"02"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	121
+	"Alaska"	"02"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	201
+	"Alaska"	"02"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	57
+	"Alaska"	"02"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	393
+	"Alaska"	"02"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	2444
+	"Alaska"	"02"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	2110
+	"Alaska"	"02"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	1518
+	"Alaska"	"02"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	169
+	"Alaska"	"02"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	89
+	"Alaska"	"02"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	951
+	"Alaska"	"02"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	1846
+	"Alaska"	"02"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	602
+	"Alaska"	"02"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	150
+	"Alaska"	"02"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	130
+	"Alaska"	"02"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	69
+	"Alaska"	"02"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	386
+	"Alaska"	"02"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	2565
+	"Alaska"	"02"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	2136
+	"Alaska"	"02"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	1628
+	"Alaska"	"02"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	165
+	"Alaska"	"02"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	101
+	"Alaska"	"02"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	974
+	"Alaska"	"02"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	1973
+	"Alaska"	"02"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	687
+	"Alaska"	"02"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	150
+	"Alaska"	"02"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	162
+	"Arizona"	"04"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	3667
+	"Arizona"	"04"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	6118
+	"Arizona"	"04"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	13876
+	"Arizona"	"04"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	13163
+	"Arizona"	"04"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	15632
+	"Arizona"	"04"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	749
+	"Arizona"	"04"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	4887
+	"Arizona"	"04"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	12788
+	"Arizona"	"04"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	12281
+	"Arizona"	"04"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5642
+	"Arizona"	"04"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1446
+	"Arizona"	"04"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	718
+	"Arizona"	"04"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	3582
+	"Arizona"	"04"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	6089
+	"Arizona"	"04"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	14061
+	"Arizona"	"04"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	13345
+	"Arizona"	"04"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	16402
+	"Arizona"	"04"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	659
+	"Arizona"	"04"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5117
+	"Arizona"	"04"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13165
+	"Arizona"	"04"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	12971
+	"Arizona"	"04"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6094
+	"Arizona"	"04"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1544
+	"Arizona"	"04"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	634
+	"Arizona"	"04"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	3515
+	"Arizona"	"04"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	6101
+	"Arizona"	"04"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	14060
+	"Arizona"	"04"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	13508
+	"Arizona"	"04"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	17150
+	"Arizona"	"04"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	423
+	"Arizona"	"04"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	4892
+	"Arizona"	"04"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13482
+	"Arizona"	"04"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	14094
+	"Arizona"	"04"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6672
+	"Arizona"	"04"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1828
+	"Arizona"	"04"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	474
+	"Arizona"	"04"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	3498
+	"Arizona"	"04"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	6219
+	"Arizona"	"04"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	15038
+	"Arizona"	"04"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	14182
+	"Arizona"	"04"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	17854
+	"Arizona"	"04"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	549
+	"Arizona"	"04"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	4918
+	"Arizona"	"04"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	14614
+	"Arizona"	"04"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	15491
+	"Arizona"	"04"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	7455
+	"Arizona"	"04"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	2051
+	"Arizona"	"04"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	560
+	"Arkansas"	"05"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	926
+	"Arkansas"	"05"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2347
+	"Arkansas"	"05"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	8179
+	"Arkansas"	"05"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	5332
+	"Arkansas"	"05"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	6528
+	"Arkansas"	"05"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	114
+	"Arkansas"	"05"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	844
+	"Arkansas"	"05"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4167
+	"Arkansas"	"05"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	6644
+	"Arkansas"	"05"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2129
+	"Arkansas"	"05"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	463
+	"Arkansas"	"05"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	111
+	"Arkansas"	"05"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	972
+	"Arkansas"	"05"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	2292
+	"Arkansas"	"05"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	8069
+	"Arkansas"	"05"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	5243
+	"Arkansas"	"05"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	6586
+	"Arkansas"	"05"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	433
+	"Arkansas"	"05"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	886
+	"Arkansas"	"05"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4147
+	"Arkansas"	"05"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	6893
+	"Arkansas"	"05"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2261
+	"Arkansas"	"05"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	499
+	"Arkansas"	"05"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	292
+	"Arkansas"	"05"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	960
+	"Arkansas"	"05"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	2287
+	"Arkansas"	"05"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	7521
+	"Arkansas"	"05"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	4931
+	"Arkansas"	"05"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	6624
+	"Arkansas"	"05"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1117
+	"Arkansas"	"05"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	911
+	"Arkansas"	"05"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4107
+	"Arkansas"	"05"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	7028
+	"Arkansas"	"05"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2381
+	"Arkansas"	"05"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	517
+	"Arkansas"	"05"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	824
+	"Arkansas"	"05"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	913
+	"Arkansas"	"05"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2154
+	"Arkansas"	"05"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	7627
+	"Arkansas"	"05"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	5159
+	"Arkansas"	"05"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	6820
+	"Arkansas"	"05"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1174
+	"Arkansas"	"05"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	914
+	"Arkansas"	"05"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4450
+	"Arkansas"	"05"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	7478
+	"Arkansas"	"05"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2712
+	"Arkansas"	"05"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	636
+	"Arkansas"	"05"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	924
+	"California"	"06"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	34102
+	"California"	"06"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	37856
+	"California"	"06"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	86947
+	"California"	"06"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	74509
+	"California"	"06"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	118636
+	"California"	"06"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	7583
+	"California"	"06"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	24616
+	"California"	"06"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	51840
+	"California"	"06"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	62938
+	"California"	"06"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	27748
+	"California"	"06"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	8978
+	"California"	"06"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	5244
+	"California"	"06"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	32984
+	"California"	"06"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	37276
+	"California"	"06"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	84492
+	"California"	"06"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	72421
+	"California"	"06"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	120533
+	"California"	"06"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	9555
+	"California"	"06"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	24925
+	"California"	"06"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	53372
+	"California"	"06"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	65097
+	"California"	"06"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	28513
+	"California"	"06"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	9542
+	"California"	"06"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	6133
+	"California"	"06"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	32105
+	"California"	"06"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	36344
+	"California"	"06"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	82795
+	"California"	"06"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	71342
+	"California"	"06"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	120870
+	"California"	"06"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	9444
+	"California"	"06"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	25824
+	"California"	"06"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	55255
+	"California"	"06"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	68434
+	"California"	"06"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	30501
+	"California"	"06"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	9981
+	"California"	"06"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	5987
+	"California"	"06"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	350939
+	"California"	"06"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	211501
+	"Colorado"	"08"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	2935
+	"Colorado"	"08"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	4811
+	"Colorado"	"08"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	12382
+	"Colorado"	"08"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	10150
+	"Colorado"	"08"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	20192
+	"Colorado"	"08"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	350
+	"Colorado"	"08"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1773
+	"Colorado"	"08"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5878
+	"Colorado"	"08"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	6992
+	"Colorado"	"08"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2605
+	"Colorado"	"08"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1031
+	"Colorado"	"08"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	240
+	"Colorado"	"08"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	2864
+	"Colorado"	"08"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	4905
+	"Colorado"	"08"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	11709
+	"Colorado"	"08"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	9494
+	"Colorado"	"08"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	20292
+	"Colorado"	"08"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	402
+	"Colorado"	"08"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1676
+	"Colorado"	"08"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6025
+	"Colorado"	"08"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	6988
+	"Colorado"	"08"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2773
+	"Colorado"	"08"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1050
+	"Colorado"	"08"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	325
+	"Colorado"	"08"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	2829
+	"Colorado"	"08"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	4775
+	"Colorado"	"08"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	11912
+	"Colorado"	"08"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	9403
+	"Colorado"	"08"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	20572
+	"Colorado"	"08"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	796
+	"Colorado"	"08"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1670
+	"Colorado"	"08"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5685
+	"Colorado"	"08"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	6879
+	"Colorado"	"08"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2774
+	"Colorado"	"08"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1125
+	"Colorado"	"08"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	524
+	"Colorado"	"08"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	2689
+	"Colorado"	"08"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	4781
+	"Colorado"	"08"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	11790
+	"Colorado"	"08"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	9730
+	"Colorado"	"08"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	20849
+	"Colorado"	"08"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1377
+	"Colorado"	"08"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1450
+	"Colorado"	"08"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5771
+	"Colorado"	"08"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	7177
+	"Colorado"	"08"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3039
+	"Colorado"	"08"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1263
+	"Colorado"	"08"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	835
+	"Connecticut"	"09"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	430
+	"Connecticut"	"09"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	892
+	"Connecticut"	"09"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	5378
+	"Connecticut"	"09"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	6922
+	"Connecticut"	"09"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	16254
+	"Connecticut"	"09"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	123
+	"Connecticut"	"09"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	728
+	"Connecticut"	"09"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3332
+	"Connecticut"	"09"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	5005
+	"Connecticut"	"09"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2794
+	"Connecticut"	"09"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	869
+	"Connecticut"	"09"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	146
+	"Connecticut"	"09"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	459
+	"Connecticut"	"09"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	893
+	"Connecticut"	"09"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	5073
+	"Connecticut"	"09"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	6474
+	"Connecticut"	"09"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	15961
+	"Connecticut"	"09"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	344
+	"Connecticut"	"09"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	759
+	"Connecticut"	"09"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3167
+	"Connecticut"	"09"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	5204
+	"Connecticut"	"09"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2746
+	"Connecticut"	"09"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	869
+	"Connecticut"	"09"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	146
+	"Connecticut"	"09"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	449
+	"Connecticut"	"09"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	888
+	"Connecticut"	"09"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	4828
+	"Connecticut"	"09"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	6065
+	"Connecticut"	"09"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	15718
+	"Connecticut"	"09"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	345
+	"Connecticut"	"09"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	779
+	"Connecticut"	"09"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3310
+	"Connecticut"	"09"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	5284
+	"Connecticut"	"09"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2868
+	"Connecticut"	"09"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1020
+	"Connecticut"	"09"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	164
+	"Connecticut"	"09"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	497
+	"Connecticut"	"09"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	845
+	"Connecticut"	"09"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	4672
+	"Connecticut"	"09"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	5706
+	"Connecticut"	"09"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	15542
+	"Connecticut"	"09"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	349
+	"Connecticut"	"09"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	918
+	"Connecticut"	"09"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3300
+	"Connecticut"	"09"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	5733
+	"Connecticut"	"09"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3017
+	"Connecticut"	"09"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1071
+	"Connecticut"	"09"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	170
+	"Delaware"	"10"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	289
+	"Delaware"	"10"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	319
+	"Delaware"	"10"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	1567
+	"Delaware"	"10"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	1321
+	"Delaware"	"10"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	2835
+	"Delaware"	"10"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	251
+	"Delaware"	"10"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	412
+	"Delaware"	"10"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1342
+	"Delaware"	"10"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	1986
+	"Delaware"	"10"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	705
+	"Delaware"	"10"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	210
+	"Delaware"	"10"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	92
+	"Delaware"	"10"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	315
+	"Delaware"	"10"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	341
+	"Delaware"	"10"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	1547
+	"Delaware"	"10"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	1345
+	"Delaware"	"10"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	2768
+	"Delaware"	"10"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	242
+	"Delaware"	"10"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	456
+	"Delaware"	"10"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1319
+	"Delaware"	"10"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	1993
+	"Delaware"	"10"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	676
+	"Delaware"	"10"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	262
+	"Delaware"	"10"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	105
+	"Delaware"	"10"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	346
+	"Delaware"	"10"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	308
+	"Delaware"	"10"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	1410
+	"Delaware"	"10"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	1339
+	"Delaware"	"10"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	2806
+	"Delaware"	"10"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	278
+	"Delaware"	"10"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	561
+	"Delaware"	"10"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1328
+	"Delaware"	"10"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	2055
+	"Delaware"	"10"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	791
+	"Delaware"	"10"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	303
+	"Delaware"	"10"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	118
+	"Delaware"	"10"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	6533
+	"Delaware"	"10"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	5456
+	"District of Columbia"	"11"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	157
+	"District of Columbia"	"11"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	134
+	"District of Columbia"	"11"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	578
+	"District of Columbia"	"11"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	421
+	"District of Columbia"	"11"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	2107
+	"District of Columbia"	"11"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	138
+	"District of Columbia"	"11"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	264
+	"District of Columbia"	"11"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	934
+	"District of Columbia"	"11"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	1720
+	"District of Columbia"	"11"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	574
+	"District of Columbia"	"11"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	246
+	"District of Columbia"	"11"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	346
+	"District of Columbia"	"11"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	123
+	"District of Columbia"	"11"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	118
+	"District of Columbia"	"11"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	464
+	"District of Columbia"	"11"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	375
+	"District of Columbia"	"11"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	2272
+	"District of Columbia"	"11"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	145
+	"District of Columbia"	"11"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	269
+	"District of Columbia"	"11"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1038
+	"District of Columbia"	"11"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	1797
+	"District of Columbia"	"11"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	561
+	"District of Columbia"	"11"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	284
+	"District of Columbia"	"11"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	487
+	"District of Columbia"	"11"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	119
+	"District of Columbia"	"11"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	87
+	"District of Columbia"	"11"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	470
+	"District of Columbia"	"11"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	423
+	"District of Columbia"	"11"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	2215
+	"District of Columbia"	"11"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	193
+	"District of Columbia"	"11"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	311
+	"District of Columbia"	"11"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	940
+	"District of Columbia"	"11"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	1876
+	"District of Columbia"	"11"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	519
+	"District of Columbia"	"11"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	262
+	"District of Columbia"	"11"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	556
+	"District of Columbia"	"11"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	132
+	"District of Columbia"	"11"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	111
+	"District of Columbia"	"11"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	477
+	"District of Columbia"	"11"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	390
+	"District of Columbia"	"11"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	2324
+	"District of Columbia"	"11"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	183
+	"District of Columbia"	"11"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	380
+	"District of Columbia"	"11"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	990
+	"District of Columbia"	"11"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	2013
+	"District of Columbia"	"11"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	659
+	"District of Columbia"	"11"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	282
+	"District of Columbia"	"11"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	582
+	"Florida"	"12"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	4202
+	"Florida"	"12"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	8671
+	"Florida"	"12"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	35659
+	"Florida"	"12"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	32338
+	"Florida"	"12"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	45719
+	"Florida"	"12"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	899
+	"Florida"	"12"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	6547
+	"Florida"	"12"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	22614
+	"Florida"	"12"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	35369
+	"Florida"	"12"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	14454
+	"Florida"	"12"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	4703
+	"Florida"	"12"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1075
+	"Florida"	"12"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	127799
+	"Florida"	"12"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	90254
+	"Florida"	"12"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	129431
+	"Florida"	"12"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	96809
+	"Florida"	"12"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	131691
+	"Florida"	"12"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	105111
+	"Georgia"	"13"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	4365
+	"Georgia"	"13"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	7353
+	"Georgia"	"13"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	20824
+	"Georgia"	"13"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	18596
+	"Georgia"	"13"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	31054
+	"Georgia"	"13"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1933
+	"Georgia"	"13"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	4556
+	"Georgia"	"13"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	15678
+	"Georgia"	"13"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	19138
+	"Georgia"	"13"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	8635
+	"Georgia"	"13"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	2511
+	"Georgia"	"13"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1336
+	"Georgia"	"13"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	4702
+	"Georgia"	"13"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	7357
+	"Georgia"	"13"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	20457
+	"Georgia"	"13"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	18234
+	"Georgia"	"13"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	30892
+	"Georgia"	"13"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	2845
+	"Georgia"	"13"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5204
+	"Georgia"	"13"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	15776
+	"Georgia"	"13"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	19799
+	"Georgia"	"13"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	9297
+	"Georgia"	"13"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	2603
+	"Georgia"	"13"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1683
+	"Georgia"	"13"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	4477
+	"Georgia"	"13"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	7455
+	"Georgia"	"13"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	20979
+	"Georgia"	"13"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	17916
+	"Georgia"	"13"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	29976
+	"Georgia"	"13"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	3690
+	"Georgia"	"13"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5171
+	"Georgia"	"13"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	16396
+	"Georgia"	"13"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	21838
+	"Georgia"	"13"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	9658
+	"Georgia"	"13"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	2738
+	"Georgia"	"13"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1906
+	"Georgia"	"13"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	4532
+	"Georgia"	"13"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	7679
+	"Georgia"	"13"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	21140
+	"Georgia"	"13"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	17999
+	"Georgia"	"13"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	29501
+	"Georgia"	"13"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	4786
+	"Georgia"	"13"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5639
+	"Georgia"	"13"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	17389
+	"Georgia"	"13"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	23854
+	"Georgia"	"13"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	10928
+	"Georgia"	"13"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	3040
+	"Georgia"	"13"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	2146
+	"Hawaii"	"15"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	115
+	"Hawaii"	"15"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	431
+	"Hawaii"	"15"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	4043
+	"Hawaii"	"15"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	3253
+	"Hawaii"	"15"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	4117
+	"Hawaii"	"15"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	83
+	"Hawaii"	"15"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	158
+	"Hawaii"	"15"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	963
+	"Hawaii"	"15"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	3153
+	"Hawaii"	"15"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1213
+	"Hawaii"	"15"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	459
+	"Hawaii"	"15"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	112
+	"Hawaii"	"15"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	105
+	"Hawaii"	"15"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	442
+	"Hawaii"	"15"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	4211
+	"Hawaii"	"15"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	3241
+	"Hawaii"	"15"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	4064
+	"Hawaii"	"15"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	120
+	"Hawaii"	"15"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	130
+	"Hawaii"	"15"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1062
+	"Hawaii"	"15"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	3026
+	"Hawaii"	"15"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1324
+	"Hawaii"	"15"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	455
+	"Hawaii"	"15"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	101
+	"Hawaii"	"15"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	128
+	"Hawaii"	"15"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	366
+	"Hawaii"	"15"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	3721
+	"Hawaii"	"15"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	3167
+	"Hawaii"	"15"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	3881
+	"Hawaii"	"15"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	157
+	"Hawaii"	"15"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	140
+	"Hawaii"	"15"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1069
+	"Hawaii"	"15"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	3316
+	"Hawaii"	"15"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1359
+	"Hawaii"	"15"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	487
+	"Hawaii"	"15"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	133
+	"Hawaii"	"15"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	91
+	"Hawaii"	"15"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	366
+	"Hawaii"	"15"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	3863
+	"Hawaii"	"15"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	3265
+	"Hawaii"	"15"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	4304
+	"Hawaii"	"15"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	261
+	"Hawaii"	"15"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	148
+	"Hawaii"	"15"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1160
+	"Hawaii"	"15"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	3386
+	"Hawaii"	"15"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1453
+	"Hawaii"	"15"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	527
+	"Hawaii"	"15"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	158
+	"Idaho"	"16"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	554
+	"Idaho"	"16"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1138
+	"Idaho"	"16"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	4582
+	"Idaho"	"16"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	5732
+	"Idaho"	"16"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	4184
+	"Idaho"	"16"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	745
+	"Idaho"	"16"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	297
+	"Idaho"	"16"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1288
+	"Idaho"	"16"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	1995
+	"Idaho"	"16"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	765
+	"Idaho"	"16"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	161
+	"Idaho"	"16"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	359
+	"Idaho"	"16"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	17433
+	"Idaho"	"16"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	5099
+	"Idaho"	"16"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	17772
+	"Idaho"	"16"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	5290
+	"Idaho"	"16"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	18306
+	"Idaho"	"16"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	5878
+	"Illinois"	"17"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	6586
+	"Illinois"	"17"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	7376
+	"Illinois"	"17"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	24774
+	"Illinois"	"17"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	26802
+	"Illinois"	"17"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	50979
+	"Illinois"	"17"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1539
+	"Illinois"	"17"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5650
+	"Illinois"	"17"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	18477
+	"Illinois"	"17"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	23767
+	"Illinois"	"17"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	12491
+	"Illinois"	"17"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	3258
+	"Illinois"	"17"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	796
+	"Illinois"	"17"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	6049
+	"Illinois"	"17"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	7034
+	"Illinois"	"17"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	23406
+	"Illinois"	"17"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	25346
+	"Illinois"	"17"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	51379
+	"Illinois"	"17"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	2004
+	"Illinois"	"17"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5560
+	"Illinois"	"17"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	18327
+	"Illinois"	"17"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	24591
+	"Illinois"	"17"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	12637
+	"Illinois"	"17"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	3531
+	"Illinois"	"17"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	914
+	"Illinois"	"17"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	5733
+	"Illinois"	"17"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	6724
+	"Illinois"	"17"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	22645
+	"Illinois"	"17"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	24345
+	"Illinois"	"17"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	51860
+	"Illinois"	"17"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1380
+	"Illinois"	"17"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5595
+	"Illinois"	"17"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	18014
+	"Illinois"	"17"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	24622
+	"Illinois"	"17"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	13367
+	"Illinois"	"17"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	3835
+	"Illinois"	"17"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	900
+	"Illinois"	"17"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	5508
+	"Illinois"	"17"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	6437
+	"Illinois"	"17"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	21732
+	"Illinois"	"17"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	24012
+	"Illinois"	"17"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	51601
+	"Illinois"	"17"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1321
+	"Illinois"	"17"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5694
+	"Illinois"	"17"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	18756
+	"Illinois"	"17"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	25914
+	"Illinois"	"17"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	14433
+	"Illinois"	"17"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	4339
+	"Illinois"	"17"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	825
+	"Indiana"	"18"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	2727
+	"Indiana"	"18"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	3717
+	"Indiana"	"18"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	14302
+	"Indiana"	"18"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	13922
+	"Indiana"	"18"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	19421
+	"Indiana"	"18"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	245
+	"Indiana"	"18"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1804
+	"Indiana"	"18"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	10043
+	"Indiana"	"18"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	12782
+	"Indiana"	"18"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5973
+	"Indiana"	"18"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1165
+	"Indiana"	"18"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	333
+	"Indiana"	"18"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	2681
+	"Indiana"	"18"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	3497
+	"Indiana"	"18"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	13639
+	"Indiana"	"18"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	13209
+	"Indiana"	"18"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	19357
+	"Indiana"	"18"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	931
+	"Indiana"	"18"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1826
+	"Indiana"	"18"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	10385
+	"Indiana"	"18"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	13666
+	"Indiana"	"18"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6130
+	"Indiana"	"18"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1321
+	"Indiana"	"18"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	500
+	"Indiana"	"18"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	2768
+	"Indiana"	"18"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	3509
+	"Indiana"	"18"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	12773
+	"Indiana"	"18"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	12785
+	"Indiana"	"18"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	19302
+	"Indiana"	"18"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1047
+	"Indiana"	"18"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	2037
+	"Indiana"	"18"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	10635
+	"Indiana"	"18"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	13852
+	"Indiana"	"18"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6432
+	"Indiana"	"18"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1448
+	"Indiana"	"18"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	605
+	"Indiana"	"18"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	2520
+	"Indiana"	"18"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	3453
+	"Indiana"	"18"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	12091
+	"Indiana"	"18"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	12845
+	"Indiana"	"18"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	19397
+	"Indiana"	"18"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1622
+	"Indiana"	"18"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	2096
+	"Indiana"	"18"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	10772
+	"Indiana"	"18"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	14377
+	"Indiana"	"18"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6981
+	"Indiana"	"18"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1668
+	"Indiana"	"18"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	809
+	"Iowa"	"19"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	778
+	"Iowa"	"19"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1270
+	"Iowa"	"19"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	5526
+	"Iowa"	"19"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	8536
+	"Iowa"	"19"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	10642
+	"Iowa"	"19"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	27
+	"Iowa"	"19"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	459
+	"Iowa"	"19"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3002
+	"Iowa"	"19"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	4676
+	"Iowa"	"19"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2700
+	"Iowa"	"19"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	526
+	"Iowa"	"19"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	32
+	"Iowa"	"19"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	831
+	"Iowa"	"19"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	1316
+	"Iowa"	"19"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	5395
+	"Iowa"	"19"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	8068
+	"Iowa"	"19"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	10873
+	"Iowa"	"19"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	42
+	"Iowa"	"19"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	473
+	"Iowa"	"19"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2987
+	"Iowa"	"19"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	4904
+	"Iowa"	"19"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2895
+	"Iowa"	"19"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	614
+	"Iowa"	"19"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	40
+	"Iowa"	"19"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	862
+	"Iowa"	"19"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	1276
+	"Iowa"	"19"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	5126
+	"Iowa"	"19"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	7895
+	"Iowa"	"19"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	10606
+	"Iowa"	"19"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	771
+	"Iowa"	"19"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	566
+	"Iowa"	"19"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3041
+	"Iowa"	"19"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	5085
+	"Iowa"	"19"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3174
+	"Iowa"	"19"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	626
+	"Iowa"	"19"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	283
+	"Iowa"	"19"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	872
+	"Iowa"	"19"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	1179
+	"Iowa"	"19"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	4992
+	"Iowa"	"19"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	7843
+	"Iowa"	"19"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	11035
+	"Iowa"	"19"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	966
+	"Iowa"	"19"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	612
+	"Iowa"	"19"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3186
+	"Iowa"	"19"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	5356
+	"Iowa"	"19"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3530
+	"Iowa"	"19"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	702
+	"Iowa"	"19"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	334
+	"Kansas"	"20"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	919
+	"Kansas"	"20"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1894
+	"Kansas"	"20"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	6204
+	"Kansas"	"20"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	6784
+	"Kansas"	"20"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	11143
+	"Kansas"	"20"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	57
+	"Kansas"	"20"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	705
+	"Kansas"	"20"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3710
+	"Kansas"	"20"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	4971
+	"Kansas"	"20"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2538
+	"Kansas"	"20"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	508
+	"Kansas"	"20"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	43
+	"Kansas"	"20"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	895
+	"Kansas"	"20"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	1795
+	"Kansas"	"20"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	5929
+	"Kansas"	"20"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	6713
+	"Kansas"	"20"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	11163
+	"Kansas"	"20"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	74
+	"Kansas"	"20"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	715
+	"Kansas"	"20"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3723
+	"Kansas"	"20"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	5192
+	"Kansas"	"20"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2805
+	"Kansas"	"20"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	598
+	"Kansas"	"20"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	67
+	"Kansas"	"20"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	26241
+	"Kansas"	"20"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	13647
+	"Kansas"	"20"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	26538
+	"Kansas"	"20"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	14430
+	"Kentucky"	"21"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1089
+	"Kentucky"	"21"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	3578
+	"Kentucky"	"21"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	11308
+	"Kentucky"	"21"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	8845
+	"Kentucky"	"21"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	11614
+	"Kentucky"	"21"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	119
+	"Kentucky"	"21"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1029
+	"Kentucky"	"21"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5716
+	"Kentucky"	"21"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	7855
+	"Kentucky"	"21"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3286
+	"Kentucky"	"21"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	686
+	"Kentucky"	"21"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	111
+	"Kentucky"	"21"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	36220
+	"Kentucky"	"21"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	19500
+	"Kentucky"	"21"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	36395
+	"Kentucky"	"21"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	20049
+	"Kentucky"	"21"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	37688
+	"Kentucky"	"21"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	20562
+	"Louisiana"	"22"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	672
+	"Louisiana"	"22"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2702
+	"Louisiana"	"22"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	10599
+	"Louisiana"	"22"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	8171
+	"Louisiana"	"22"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	11937
+	"Louisiana"	"22"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	37
+	"Louisiana"	"22"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1585
+	"Louisiana"	"22"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	9525
+	"Louisiana"	"22"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	13073
+	"Louisiana"	"22"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5273
+	"Louisiana"	"22"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1433
+	"Louisiana"	"22"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	33
+	"Louisiana"	"22"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	694
+	"Louisiana"	"22"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	2655
+	"Louisiana"	"22"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	9805
+	"Louisiana"	"22"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	8185
+	"Louisiana"	"22"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	11874
+	"Louisiana"	"22"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	39
+	"Louisiana"	"22"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1694
+	"Louisiana"	"22"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	9581
+	"Louisiana"	"22"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	13496
+	"Louisiana"	"22"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5753
+	"Louisiana"	"22"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1543
+	"Louisiana"	"22"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	50
+	"Louisiana"	"22"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	606
+	"Louisiana"	"22"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	2322
+	"Louisiana"	"22"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	9259
+	"Louisiana"	"22"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	7508
+	"Louisiana"	"22"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	11675
+	"Louisiana"	"22"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	337
+	"Louisiana"	"22"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1537
+	"Louisiana"	"22"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	8451
+	"Louisiana"	"22"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	12187
+	"Louisiana"	"22"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5289
+	"Louisiana"	"22"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1487
+	"Louisiana"	"22"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	279
+	"Louisiana"	"22"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	599
+	"Louisiana"	"22"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2393
+	"Louisiana"	"22"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	9027
+	"Louisiana"	"22"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	7640
+	"Louisiana"	"22"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	12044
+	"Louisiana"	"22"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	130
+	"Louisiana"	"22"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1714
+	"Louisiana"	"22"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	8691
+	"Louisiana"	"22"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	13185
+	"Louisiana"	"22"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6134
+	"Louisiana"	"22"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1723
+	"Louisiana"	"22"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	96
+	"Maine"	"23"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	89
+	"Maine"	"23"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	253
+	"Maine"	"23"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	2445
+	"Maine"	"23"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	2402
+	"Maine"	"23"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	3928
+	"Maine"	"23"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	96
+	"Maine"	"23"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	135
+	"Maine"	"23"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	991
+	"Maine"	"23"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	2315
+	"Maine"	"23"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	859
+	"Maine"	"23"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	306
+	"Maine"	"23"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	36
+	"Maine"	"23"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	74
+	"Maine"	"23"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	268
+	"Maine"	"23"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	2408
+	"Maine"	"23"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	2296
+	"Maine"	"23"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	3991
+	"Maine"	"23"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	159
+	"Maine"	"23"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	112
+	"Maine"	"23"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	966
+	"Maine"	"23"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	2401
+	"Maine"	"23"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	912
+	"Maine"	"23"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	309
+	"Maine"	"23"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	48
+	"Maine"	"23"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	104
+	"Maine"	"23"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	287
+	"Maine"	"23"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	2319
+	"Maine"	"23"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	2242
+	"Maine"	"23"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	3966
+	"Maine"	"23"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	253
+	"Maine"	"23"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	116
+	"Maine"	"23"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1014
+	"Maine"	"23"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	2390
+	"Maine"	"23"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	992
+	"Maine"	"23"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	364
+	"Maine"	"23"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	65
+	"Maine"	"23"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	142
+	"Maine"	"23"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	286
+	"Maine"	"23"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	2160
+	"Maine"	"23"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	2184
+	"Maine"	"23"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	3882
+	"Maine"	"23"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	244
+	"Maine"	"23"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	119
+	"Maine"	"23"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	969
+	"Maine"	"23"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	2557
+	"Maine"	"23"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1104
+	"Maine"	"23"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	414
+	"Maine"	"23"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	90
+	"Maryland"	"24"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1145
+	"Maryland"	"24"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1530
+	"Maryland"	"24"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	9900
+	"Maryland"	"24"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	9752
+	"Maryland"	"24"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	25875
+	"Maryland"	"24"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	644
+	"Maryland"	"24"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1641
+	"Maryland"	"24"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5476
+	"Maryland"	"24"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	11205
+	"Maryland"	"24"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4787
+	"Maryland"	"24"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	2474
+	"Maryland"	"24"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	501
+	"Maryland"	"24"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	1118
+	"Maryland"	"24"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	1531
+	"Maryland"	"24"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	9380
+	"Maryland"	"24"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	9297
+	"Maryland"	"24"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	26080
+	"Maryland"	"24"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	570
+	"Maryland"	"24"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1747
+	"Maryland"	"24"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5658
+	"Maryland"	"24"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	11205
+	"Maryland"	"24"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4918
+	"Maryland"	"24"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	2573
+	"Maryland"	"24"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	551
+	"Maryland"	"24"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1223
+	"Maryland"	"24"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	1468
+	"Maryland"	"24"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	8922
+	"Maryland"	"24"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	9328
+	"Maryland"	"24"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	25523
+	"Maryland"	"24"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	709
+	"Maryland"	"24"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	2071
+	"Maryland"	"24"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5717
+	"Maryland"	"24"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	11428
+	"Maryland"	"24"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5206
+	"Maryland"	"24"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	2777
+	"Maryland"	"24"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	608
+	"Maryland"	"24"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1374
+	"Maryland"	"24"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	1473
+	"Maryland"	"24"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	8634
+	"Maryland"	"24"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	8942
+	"Maryland"	"24"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	25405
+	"Maryland"	"24"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	936
+	"Maryland"	"24"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	2430
+	"Maryland"	"24"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6015
+	"Maryland"	"24"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	12788
+	"Maryland"	"24"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5668
+	"Maryland"	"24"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	3176
+	"Maryland"	"24"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	653
+	"Massachusetts"	"25"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	884
+	"Massachusetts"	"25"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1707
+	"Massachusetts"	"25"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	9893
+	"Massachusetts"	"25"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	12140
+	"Massachusetts"	"25"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	33169
+	"Massachusetts"	"25"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	128
+	"Massachusetts"	"25"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1318
+	"Massachusetts"	"25"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5517
+	"Massachusetts"	"25"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	8417
+	"Massachusetts"	"25"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4960
+	"Massachusetts"	"25"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1972
+	"Massachusetts"	"25"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	79
+	"Massachusetts"	"25"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	885
+	"Massachusetts"	"25"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	1706
+	"Massachusetts"	"25"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	9098
+	"Massachusetts"	"25"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	11508
+	"Massachusetts"	"25"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	32676
+	"Massachusetts"	"25"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	219
+	"Massachusetts"	"25"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1315
+	"Massachusetts"	"25"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5720
+	"Massachusetts"	"25"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	8485
+	"Massachusetts"	"25"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4855
+	"Massachusetts"	"25"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1932
+	"Massachusetts"	"25"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	85
+	"Massachusetts"	"25"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	822
+	"Massachusetts"	"25"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	1409
+	"Massachusetts"	"25"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	9027
+	"Massachusetts"	"25"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	10871
+	"Massachusetts"	"25"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	31279
+	"Massachusetts"	"25"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	275
+	"Massachusetts"	"25"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1442
+	"Massachusetts"	"25"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4767
+	"Massachusetts"	"25"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	9866
+	"Massachusetts"	"25"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5102
+	"Massachusetts"	"25"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1909
+	"Massachusetts"	"25"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	96
+	"Massachusetts"	"25"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	877
+	"Massachusetts"	"25"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	1304
+	"Massachusetts"	"25"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	9192
+	"Massachusetts"	"25"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	10023
+	"Massachusetts"	"25"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	30965
+	"Massachusetts"	"25"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	331
+	"Massachusetts"	"25"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1509
+	"Massachusetts"	"25"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4772
+	"Massachusetts"	"25"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	11016
+	"Massachusetts"	"25"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5586
+	"Massachusetts"	"25"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1984
+	"Massachusetts"	"25"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	117
+	"Michigan"	"26"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	2436
+	"Michigan"	"26"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	4265
+	"Michigan"	"26"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	22298
+	"Michigan"	"26"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	22053
+	"Michigan"	"26"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	32773
+	"Michigan"	"26"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1883
+	"Michigan"	"26"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1880
+	"Michigan"	"26"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13626
+	"Michigan"	"26"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	18436
+	"Michigan"	"26"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	8346
+	"Michigan"	"26"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1930
+	"Michigan"	"26"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1168
+	"Michigan"	"26"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	2154
+	"Michigan"	"26"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	4336
+	"Michigan"	"26"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	21215
+	"Michigan"	"26"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	20639
+	"Michigan"	"26"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	33137
+	"Michigan"	"26"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	2015
+	"Michigan"	"26"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1871
+	"Michigan"	"26"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13434
+	"Michigan"	"26"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	18602
+	"Michigan"	"26"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	8828
+	"Michigan"	"26"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	2195
+	"Michigan"	"26"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1350
+	"Michigan"	"26"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	2214
+	"Michigan"	"26"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	3965
+	"Michigan"	"26"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	19851
+	"Michigan"	"26"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	20417
+	"Michigan"	"26"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	33313
+	"Michigan"	"26"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1196
+	"Michigan"	"26"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1938
+	"Michigan"	"26"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13519
+	"Michigan"	"26"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	18993
+	"Michigan"	"26"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	9211
+	"Michigan"	"26"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	2217
+	"Michigan"	"26"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	872
+	"Michigan"	"26"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	2345
+	"Michigan"	"26"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	3657
+	"Michigan"	"26"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	18499
+	"Michigan"	"26"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	19636
+	"Michigan"	"26"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	32799
+	"Michigan"	"26"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1667
+	"Michigan"	"26"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1816
+	"Michigan"	"26"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13603
+	"Michigan"	"26"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	20253
+	"Michigan"	"26"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	9754
+	"Michigan"	"26"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	2454
+	"Michigan"	"26"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1000
+	"Minnesota"	"27"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1013
+	"Minnesota"	"27"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1367
+	"Minnesota"	"27"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	9675
+	"Minnesota"	"27"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	13738
+	"Minnesota"	"27"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	24191
+	"Minnesota"	"27"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	641
+	"Minnesota"	"27"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	804
+	"Minnesota"	"27"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4168
+	"Minnesota"	"27"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	8167
+	"Minnesota"	"27"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4342
+	"Minnesota"	"27"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1362
+	"Minnesota"	"27"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	582
+	"Minnesota"	"27"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	996
+	"Minnesota"	"27"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	1375
+	"Minnesota"	"27"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	9160
+	"Minnesota"	"27"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	13315
+	"Minnesota"	"27"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	24639
+	"Minnesota"	"27"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	651
+	"Minnesota"	"27"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	885
+	"Minnesota"	"27"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4268
+	"Minnesota"	"27"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	8613
+	"Minnesota"	"27"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4552
+	"Minnesota"	"27"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1446
+	"Minnesota"	"27"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	724
+	"Minnesota"	"27"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1166
+	"Minnesota"	"27"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	1362
+	"Minnesota"	"27"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	8875
+	"Minnesota"	"27"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	13318
+	"Minnesota"	"27"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	24385
+	"Minnesota"	"27"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	707
+	"Minnesota"	"27"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	848
+	"Minnesota"	"27"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4186
+	"Minnesota"	"27"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	8895
+	"Minnesota"	"27"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4911
+	"Minnesota"	"27"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1443
+	"Minnesota"	"27"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	823
+	"Minnesota"	"27"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1180
+	"Minnesota"	"27"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	1422
+	"Minnesota"	"27"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	8601
+	"Minnesota"	"27"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	12727
+	"Minnesota"	"27"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	24333
+	"Minnesota"	"27"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1921
+	"Minnesota"	"27"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1050
+	"Minnesota"	"27"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4534
+	"Minnesota"	"27"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	9370
+	"Minnesota"	"27"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5418
+	"Minnesota"	"27"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1665
+	"Minnesota"	"27"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1304
+	"Mississippi"	"28"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	587
+	"Mississippi"	"28"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2253
+	"Mississippi"	"28"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	5921
+	"Mississippi"	"28"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	6578
+	"Mississippi"	"28"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	7058
+	"Mississippi"	"28"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	57
+	"Mississippi"	"28"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1073
+	"Mississippi"	"28"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6256
+	"Mississippi"	"28"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	7286
+	"Mississippi"	"28"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4312
+	"Mississippi"	"28"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	918
+	"Mississippi"	"28"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	81
+	"Mississippi"	"28"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	577
+	"Mississippi"	"28"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	2119
+	"Mississippi"	"28"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	5387
+	"Mississippi"	"28"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	6019
+	"Mississippi"	"28"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	6583
+	"Mississippi"	"28"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1437
+	"Mississippi"	"28"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1178
+	"Mississippi"	"28"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6322
+	"Mississippi"	"28"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	7382
+	"Mississippi"	"28"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4485
+	"Mississippi"	"28"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	952
+	"Mississippi"	"28"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	386
+	"Mississippi"	"28"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	536
+	"Mississippi"	"28"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	1967
+	"Mississippi"	"28"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	5133
+	"Mississippi"	"28"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	5906
+	"Mississippi"	"28"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	6415
+	"Mississippi"	"28"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1474
+	"Mississippi"	"28"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1221
+	"Mississippi"	"28"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6125
+	"Mississippi"	"28"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	7655
+	"Mississippi"	"28"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4569
+	"Mississippi"	"28"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	979
+	"Mississippi"	"28"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	415
+	"Mississippi"	"28"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	619
+	"Mississippi"	"28"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2048
+	"Mississippi"	"28"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	5051
+	"Mississippi"	"28"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	6057
+	"Mississippi"	"28"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	6549
+	"Mississippi"	"28"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1402
+	"Mississippi"	"28"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1457
+	"Mississippi"	"28"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	7246
+	"Mississippi"	"28"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	8817
+	"Mississippi"	"28"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5228
+	"Mississippi"	"28"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1146
+	"Mississippi"	"28"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	436
+	"Missouri"	"29"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1232
+	"Missouri"	"29"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	3351
+	"Missouri"	"29"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	12597
+	"Missouri"	"29"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	12494
+	"Missouri"	"29"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	19623
+	"Missouri"	"29"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	322
+	"Missouri"	"29"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1178
+	"Missouri"	"29"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	8528
+	"Missouri"	"29"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	11160
+	"Missouri"	"29"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5007
+	"Missouri"	"29"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1154
+	"Missouri"	"29"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	399
+	"Missouri"	"29"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	1303
+	"Missouri"	"29"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	3294
+	"Missouri"	"29"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	11963
+	"Missouri"	"29"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	12370
+	"Missouri"	"29"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	19665
+	"Missouri"	"29"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	429
+	"Missouri"	"29"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1270
+	"Missouri"	"29"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	8586
+	"Missouri"	"29"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	11750
+	"Missouri"	"29"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5232
+	"Missouri"	"29"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1398
+	"Missouri"	"29"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	505
+	"Missouri"	"29"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1285
+	"Missouri"	"29"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	3187
+	"Missouri"	"29"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	11535
+	"Missouri"	"29"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	11867
+	"Missouri"	"29"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	18831
+	"Missouri"	"29"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	2201
+	"Missouri"	"29"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1307
+	"Missouri"	"29"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	8476
+	"Missouri"	"29"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	12143
+	"Missouri"	"29"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5578
+	"Missouri"	"29"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1340
+	"Missouri"	"29"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	868
+	"Missouri"	"29"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1413
+	"Missouri"	"29"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	3196
+	"Missouri"	"29"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	11685
+	"Missouri"	"29"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	11830
+	"Missouri"	"29"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	18961
+	"Missouri"	"29"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	2291
+	"Missouri"	"29"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1385
+	"Missouri"	"29"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	9156
+	"Missouri"	"29"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	12859
+	"Missouri"	"29"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6229
+	"Missouri"	"29"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1471
+	"Missouri"	"29"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	909
+	"Montana"	"30"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	186
+	"Montana"	"30"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	466
+	"Montana"	"30"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	2130
+	"Montana"	"30"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	2112
+	"Montana"	"30"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	2817
+	"Montana"	"30"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	34
+	"Montana"	"30"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	110
+	"Montana"	"30"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1024
+	"Montana"	"30"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	1634
+	"Montana"	"30"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	675
+	"Montana"	"30"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	209
+	"Montana"	"30"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	25
+	"Montana"	"30"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	122
+	"Montana"	"30"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	430
+	"Montana"	"30"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	2126
+	"Montana"	"30"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	2059
+	"Montana"	"30"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	2793
+	"Montana"	"30"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	38
+	"Montana"	"30"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	100
+	"Montana"	"30"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1111
+	"Montana"	"30"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	1683
+	"Montana"	"30"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	813
+	"Montana"	"30"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	212
+	"Montana"	"30"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	32
+	"Montana"	"30"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	132
+	"Montana"	"30"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	394
+	"Montana"	"30"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	2132
+	"Montana"	"30"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	2016
+	"Montana"	"30"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	2850
+	"Montana"	"30"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	57
+	"Montana"	"30"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	131
+	"Montana"	"30"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1086
+	"Montana"	"30"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	1755
+	"Montana"	"30"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	770
+	"Montana"	"30"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	231
+	"Montana"	"30"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	29
+	"Montana"	"30"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	149
+	"Montana"	"30"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	364
+	"Montana"	"30"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	2160
+	"Montana"	"30"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	2108
+	"Montana"	"30"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	2952
+	"Montana"	"30"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	275
+	"Montana"	"30"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	116
+	"Montana"	"30"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1146
+	"Montana"	"30"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	1974
+	"Montana"	"30"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	858
+	"Montana"	"30"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	310
+	"Montana"	"30"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	96
+	"Nebraska"	"31"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	729
+	"Nebraska"	"31"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1130
+	"Nebraska"	"31"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	3729
+	"Nebraska"	"31"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	5131
+	"Nebraska"	"31"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	7506
+	"Nebraska"	"31"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	517
+	"Nebraska"	"31"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1986
+	"Nebraska"	"31"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	3009
+	"Nebraska"	"31"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1777
+	"Nebraska"	"31"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	389
+	"Nebraska"	"31"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	762
+	"Nebraska"	"31"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	1023
+	"Nebraska"	"31"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	3586
+	"Nebraska"	"31"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	5038
+	"Nebraska"	"31"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	7960
+	"Nebraska"	"31"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	535
+	"Nebraska"	"31"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2026
+	"Nebraska"	"31"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	3111
+	"Nebraska"	"31"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1862
+	"Nebraska"	"31"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	406
+	"Nebraska"	"31"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	14
+	"Nebraska"	"31"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	18068
+	"Nebraska"	"31"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	8077
+	"Nebraska"	"31"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	18096
+	"Nebraska"	"31"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	8631
+	"Nevada"	"32"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1425
+	"Nevada"	"32"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2511
+	"Nevada"	"32"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	6174
+	"Nevada"	"32"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	5112
+	"Nevada"	"32"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	4782
+	"Nevada"	"32"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	471
+	"Nevada"	"32"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1399
+	"Nevada"	"32"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4107
+	"Nevada"	"32"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	4552
+	"Nevada"	"32"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2094
+	"Nevada"	"32"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	526
+	"Nevada"	"32"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	494
+	"Nevada"	"32"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	1309
+	"Nevada"	"32"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	2550
+	"Nevada"	"32"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	6265
+	"Nevada"	"32"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	5438
+	"Nevada"	"32"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	5154
+	"Nevada"	"32"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	506
+	"Nevada"	"32"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1471
+	"Nevada"	"32"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4326
+	"Nevada"	"32"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	4906
+	"Nevada"	"32"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2229
+	"Nevada"	"32"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	591
+	"Nevada"	"32"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	455
+	"Nevada"	"32"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1416
+	"Nevada"	"32"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	2575
+	"Nevada"	"32"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	6089
+	"Nevada"	"32"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	5675
+	"Nevada"	"32"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	5748
+	"Nevada"	"32"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	533
+	"Nevada"	"32"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1695
+	"Nevada"	"32"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4636
+	"Nevada"	"32"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	5096
+	"Nevada"	"32"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2517
+	"Nevada"	"32"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	684
+	"Nevada"	"32"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	604
+	"Nevada"	"32"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1405
+	"Nevada"	"32"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2830
+	"Nevada"	"32"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	6330
+	"Nevada"	"32"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	5921
+	"Nevada"	"32"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	6061
+	"Nevada"	"32"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	955
+	"Nevada"	"32"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1710
+	"Nevada"	"32"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	5035
+	"Nevada"	"32"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	5494
+	"Nevada"	"32"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2640
+	"Nevada"	"32"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	738
+	"Nevada"	"32"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	908
+	"New Hampshire"	"33"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	65
+	"New Hampshire"	"33"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	359
+	"New Hampshire"	"33"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	2258
+	"New Hampshire"	"33"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	2626
+	"New Hampshire"	"33"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	5388
+	"New Hampshire"	"33"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	126
+	"New Hampshire"	"33"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	98
+	"New Hampshire"	"33"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	820
+	"New Hampshire"	"33"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	1603
+	"New Hampshire"	"33"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	716
+	"New Hampshire"	"33"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	260
+	"New Hampshire"	"33"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	74
+	"New Hampshire"	"33"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	10713
+	"New Hampshire"	"33"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	3852
+	"New Hampshire"	"33"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	10481
+	"New Hampshire"	"33"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	3939
+	"New Hampshire"	"33"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	10147
+	"New Hampshire"	"33"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	4231
+	"New Jersey"	"34"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1913
+	"New Jersey"	"34"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2752
+	"New Jersey"	"34"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	17822
+	"New Jersey"	"34"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	17393
+	"New Jersey"	"34"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	40739
+	"New Jersey"	"34"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	2051
+	"New Jersey"	"34"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	3275
+	"New Jersey"	"34"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	7646
+	"New Jersey"	"34"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	14146
+	"New Jersey"	"34"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6035
+	"New Jersey"	"34"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	2513
+	"New Jersey"	"34"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	698
+	"New Jersey"	"34"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	2016
+	"New Jersey"	"34"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	2642
+	"New Jersey"	"34"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	16374
+	"New Jersey"	"34"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	16761
+	"New Jersey"	"34"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	40788
+	"New Jersey"	"34"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	2029
+	"New Jersey"	"34"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	3669
+	"New Jersey"	"34"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	7408
+	"New Jersey"	"34"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	14151
+	"New Jersey"	"34"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6162
+	"New Jersey"	"34"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	2695
+	"New Jersey"	"34"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	558
+	"New Jersey"	"34"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	2012
+	"New Jersey"	"34"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	2465
+	"New Jersey"	"34"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	15587
+	"New Jersey"	"34"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	15786
+	"New Jersey"	"34"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	40340
+	"New Jersey"	"34"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1806
+	"New Jersey"	"34"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	3853
+	"New Jersey"	"34"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	7517
+	"New Jersey"	"34"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	14489
+	"New Jersey"	"34"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6495
+	"New Jersey"	"34"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	2970
+	"New Jersey"	"34"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	456
+	"New Jersey"	"34"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1980
+	"New Jersey"	"34"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2297
+	"New Jersey"	"34"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	14744
+	"New Jersey"	"34"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	15302
+	"New Jersey"	"34"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	40748
+	"New Jersey"	"34"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	2049
+	"New Jersey"	"34"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	4071
+	"New Jersey"	"34"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	7508
+	"New Jersey"	"34"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	15623
+	"New Jersey"	"34"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	7008
+	"New Jersey"	"34"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	3114
+	"New Jersey"	"34"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	576
+	"New Mexico"	"35"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	712
+	"New Mexico"	"35"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1803
+	"New Mexico"	"35"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	4485
+	"New Mexico"	"35"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	3398
+	"New Mexico"	"35"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	3721
+	"New Mexico"	"35"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	223
+	"New Mexico"	"35"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	830
+	"New Mexico"	"35"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4403
+	"New Mexico"	"35"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	5039
+	"New Mexico"	"35"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2157
+	"New Mexico"	"35"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	565
+	"New Mexico"	"35"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	485
+	"New Mexico"	"35"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	647
+	"New Mexico"	"35"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	1881
+	"New Mexico"	"35"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	4311
+	"New Mexico"	"35"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	3524
+	"New Mexico"	"35"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	3923
+	"New Mexico"	"35"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	233
+	"New Mexico"	"35"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	851
+	"New Mexico"	"35"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4325
+	"New Mexico"	"35"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	5183
+	"New Mexico"	"35"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2257
+	"New Mexico"	"35"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	582
+	"New Mexico"	"35"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	667
+	"New Mexico"	"35"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	627
+	"New Mexico"	"35"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	1637
+	"New Mexico"	"35"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	4189
+	"New Mexico"	"35"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	3363
+	"New Mexico"	"35"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	3725
+	"New Mexico"	"35"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	652
+	"New Mexico"	"35"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	837
+	"New Mexico"	"35"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4512
+	"New Mexico"	"35"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	5396
+	"New Mexico"	"35"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2359
+	"New Mexico"	"35"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	661
+	"New Mexico"	"35"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	877
+	"New Mexico"	"35"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	619
+	"New Mexico"	"35"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	1656
+	"New Mexico"	"35"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	4196
+	"New Mexico"	"35"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	3331
+	"New Mexico"	"35"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	4123
+	"New Mexico"	"35"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	688
+	"New Mexico"	"35"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	801
+	"New Mexico"	"35"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4481
+	"New Mexico"	"35"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	6018
+	"New Mexico"	"35"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2482
+	"New Mexico"	"35"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	735
+	"New Mexico"	"35"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	806
+	"New York"	"36"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	5630
+	"New York"	"36"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	9498
+	"New York"	"36"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	39978
+	"New York"	"36"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	35741
+	"New York"	"36"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	68614
+	"New York"	"36"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1656
+	"New York"	"36"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	8281
+	"New York"	"36"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	24206
+	"New York"	"36"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	33425
+	"New York"	"36"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	18056
+	"New York"	"36"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	7363
+	"New York"	"36"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1266
+	"New York"	"36"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	3224
+	"New York"	"36"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	4751
+	"New York"	"36"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	17756
+	"New York"	"36"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	11587
+	"New York"	"36"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	24353
+	"New York"	"36"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	4065
+	"New York"	"36"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	89831
+	"New York"	"36"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5556
+	"New York"	"36"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13376
+	"New York"	"36"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	18262
+	"New York"	"36"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	10131
+	"New York"	"36"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	4720
+	"New York"	"36"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1287
+	"New York"	"36"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	41048
+	"New York"	"36"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	3071
+	"New York"	"36"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	4573
+	"New York"	"36"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	17408
+	"New York"	"36"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	10907
+	"New York"	"36"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	24404
+	"New York"	"36"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	3808
+	"New York"	"36"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	86770
+	"New York"	"36"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5498
+	"New York"	"36"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13032
+	"New York"	"36"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	18671
+	"New York"	"36"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	10054
+	"New York"	"36"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	4815
+	"New York"	"36"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1266
+	"New York"	"36"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	42074
+	"New York"	"36"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	3142
+	"New York"	"36"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	4576
+	"New York"	"36"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	17389
+	"New York"	"36"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	10873
+	"New York"	"36"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	25392
+	"New York"	"36"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	3677
+	"New York"	"36"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	84940
+	"New York"	"36"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5442
+	"New York"	"36"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13011
+	"New York"	"36"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	19336
+	"New York"	"36"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	10654
+	"New York"	"36"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	5122
+	"New York"	"36"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1271
+	"New York"	"36"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	45279
+	"North Carolina"	"37"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	3368
+	"North Carolina"	"37"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	5940
+	"North Carolina"	"37"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	18820
+	"North Carolina"	"37"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	18767
+	"North Carolina"	"37"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	29431
+	"North Carolina"	"37"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	195
+	"North Carolina"	"37"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	4716
+	"North Carolina"	"37"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	12436
+	"North Carolina"	"37"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	15572
+	"North Carolina"	"37"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	7027
+	"North Carolina"	"37"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1899
+	"North Carolina"	"37"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	152
+	"North Carolina"	"37"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	3358
+	"North Carolina"	"37"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	5988
+	"North Carolina"	"37"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	18269
+	"North Carolina"	"37"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	18461
+	"North Carolina"	"37"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	29232
+	"North Carolina"	"37"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	361
+	"North Carolina"	"37"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	4934
+	"North Carolina"	"37"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13098
+	"North Carolina"	"37"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	16226
+	"North Carolina"	"37"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	7529
+	"North Carolina"	"37"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	2145
+	"North Carolina"	"37"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	246
+	"North Carolina"	"37"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	3650
+	"North Carolina"	"37"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	5746
+	"North Carolina"	"37"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	17707
+	"North Carolina"	"37"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	18372
+	"North Carolina"	"37"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	29898
+	"North Carolina"	"37"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	423
+	"North Carolina"	"37"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5358
+	"North Carolina"	"37"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	13724
+	"North Carolina"	"37"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	17311
+	"North Carolina"	"37"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	8234
+	"North Carolina"	"37"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	2421
+	"North Carolina"	"37"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	252
+	"North Carolina"	"37"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	3672
+	"North Carolina"	"37"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	5929
+	"North Carolina"	"37"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	17429
+	"North Carolina"	"37"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	18690
+	"North Carolina"	"37"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	30379
+	"North Carolina"	"37"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	489
+	"North Carolina"	"37"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	5729
+	"North Carolina"	"37"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	14649
+	"North Carolina"	"37"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	18631
+	"North Carolina"	"37"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	9342
+	"North Carolina"	"37"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	2625
+	"North Carolina"	"37"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	295
+	"North Dakota"	"38"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	39
+	"North Dakota"	"38"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	159
+	"North Dakota"	"38"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	1129
+	"North Dakota"	"38"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	1819
+	"North Dakota"	"38"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	2536
+	"North Dakota"	"38"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	14
+	"North Dakota"	"38"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	46
+	"North Dakota"	"38"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	468
+	"North Dakota"	"38"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	958
+	"North Dakota"	"38"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	653
+	"North Dakota"	"38"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	143
+	"North Dakota"	"38"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	38
+	"North Dakota"	"38"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	156
+	"North Dakota"	"38"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	1105
+	"North Dakota"	"38"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	1804
+	"North Dakota"	"38"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	2619
+	"North Dakota"	"38"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	18
+	"North Dakota"	"38"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	50
+	"North Dakota"	"38"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	508
+	"North Dakota"	"38"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	1005
+	"North Dakota"	"38"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	727
+	"North Dakota"	"38"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	152
+	"North Dakota"	"38"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	46
+	"North Dakota"	"38"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	154
+	"North Dakota"	"38"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	1081
+	"North Dakota"	"38"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	1734
+	"North Dakota"	"38"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	2660
+	"North Dakota"	"38"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	17
+	"North Dakota"	"38"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	58
+	"North Dakota"	"38"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	525
+	"North Dakota"	"38"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	1122
+	"North Dakota"	"38"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	768
+	"North Dakota"	"38"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	211
+	"North Dakota"	"38"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	14
+	"North Dakota"	"38"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	5889
+	"North Dakota"	"38"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	2732
+	"Ohio"	"39"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	3006
+	"Ohio"	"39"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	4669
+	"Ohio"	"39"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	25337
+	"Ohio"	"39"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	23333
+	"Ohio"	"39"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	38278
+	"Ohio"	"39"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	926
+	"Ohio"	"39"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1751
+	"Ohio"	"39"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	15745
+	"Ohio"	"39"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	23510
+	"Ohio"	"39"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	9843
+	"Ohio"	"39"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	2313
+	"Ohio"	"39"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	968
+	"Ohio"	"39"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	2941
+	"Ohio"	"39"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	4413
+	"Ohio"	"39"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	22597
+	"Ohio"	"39"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	22881
+	"Ohio"	"39"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	38665
+	"Ohio"	"39"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1794
+	"Ohio"	"39"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1845
+	"Ohio"	"39"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	15570
+	"Ohio"	"39"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	23136
+	"Ohio"	"39"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	10755
+	"Ohio"	"39"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	2638
+	"Ohio"	"39"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1719
+	"Ohio"	"39"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	2933
+	"Ohio"	"39"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	4180
+	"Ohio"	"39"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	21346
+	"Ohio"	"39"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	21947
+	"Ohio"	"39"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	38482
+	"Ohio"	"39"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1744
+	"Ohio"	"39"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1927
+	"Ohio"	"39"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	15738
+	"Ohio"	"39"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	23922
+	"Ohio"	"39"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	11594
+	"Ohio"	"39"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	2804
+	"Ohio"	"39"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	1771
+	"Ohio"	"39"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	89585
+	"Ohio"	"39"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	61008
+	"Oklahoma"	"40"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1122
+	"Oklahoma"	"40"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	3321
+	"Oklahoma"	"40"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	10864
+	"Oklahoma"	"40"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	7506
+	"Oklahoma"	"40"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	9181
+	"Oklahoma"	"40"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	72
+	"Oklahoma"	"40"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1314
+	"Oklahoma"	"40"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6010
+	"Oklahoma"	"40"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	8071
+	"Oklahoma"	"40"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2850
+	"Oklahoma"	"40"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	551
+	"Oklahoma"	"40"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	119
+	"Oklahoma"	"40"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	1075
+	"Oklahoma"	"40"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	3131
+	"Oklahoma"	"40"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	10532
+	"Oklahoma"	"40"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	7446
+	"Oklahoma"	"40"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	9321
+	"Oklahoma"	"40"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	87
+	"Oklahoma"	"40"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1344
+	"Oklahoma"	"40"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6119
+	"Oklahoma"	"40"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	8549
+	"Oklahoma"	"40"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2940
+	"Oklahoma"	"40"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	609
+	"Oklahoma"	"40"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	153
+	"Oklahoma"	"40"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1072
+	"Oklahoma"	"40"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	3050
+	"Oklahoma"	"40"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	10156
+	"Oklahoma"	"40"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	7607
+	"Oklahoma"	"40"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	9228
+	"Oklahoma"	"40"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	443
+	"Oklahoma"	"40"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1315
+	"Oklahoma"	"40"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6027
+	"Oklahoma"	"40"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	8713
+	"Oklahoma"	"40"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3253
+	"Oklahoma"	"40"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	674
+	"Oklahoma"	"40"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	263
+	"Oklahoma"	"40"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1194
+	"Oklahoma"	"40"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2994
+	"Oklahoma"	"40"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	10496
+	"Oklahoma"	"40"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	7548
+	"Oklahoma"	"40"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	9248
+	"Oklahoma"	"40"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	446
+	"Oklahoma"	"40"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1447
+	"Oklahoma"	"40"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6507
+	"Oklahoma"	"40"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	9523
+	"Oklahoma"	"40"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3614
+	"Oklahoma"	"40"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	765
+	"Oklahoma"	"40"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	234
+	"Oregon"	"41"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1533
+	"Oregon"	"41"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2346
+	"Oregon"	"41"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	8411
+	"Oregon"	"41"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	7829
+	"Oregon"	"41"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	10377
+	"Oregon"	"41"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	871
+	"Oregon"	"41"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1203
+	"Oregon"	"41"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3833
+	"Oregon"	"41"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	5799
+	"Oregon"	"41"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2537
+	"Oregon"	"41"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	739
+	"Oregon"	"41"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	475
+	"Oregon"	"41"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	1550
+	"Oregon"	"41"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	2219
+	"Oregon"	"41"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	7640
+	"Oregon"	"41"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	7758
+	"Oregon"	"41"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	10806
+	"Oregon"	"41"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	855
+	"Oregon"	"41"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1326
+	"Oregon"	"41"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3798
+	"Oregon"	"41"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	5864
+	"Oregon"	"41"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2691
+	"Oregon"	"41"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	717
+	"Oregon"	"41"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	454
+	"Oregon"	"41"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1710
+	"Oregon"	"41"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	2224
+	"Oregon"	"41"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	7438
+	"Oregon"	"41"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	7469
+	"Oregon"	"41"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	10975
+	"Oregon"	"41"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	830
+	"Oregon"	"41"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1335
+	"Oregon"	"41"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3839
+	"Oregon"	"41"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	6135
+	"Oregon"	"41"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2699
+	"Oregon"	"41"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	819
+	"Oregon"	"41"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	449
+	"Oregon"	"41"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1601
+	"Oregon"	"41"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2326
+	"Oregon"	"41"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	7916
+	"Oregon"	"41"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	7570
+	"Oregon"	"41"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	11583
+	"Oregon"	"41"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	990
+	"Oregon"	"41"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1367
+	"Oregon"	"41"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	4279
+	"Oregon"	"41"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	6738
+	"Oregon"	"41"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	2873
+	"Oregon"	"41"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	888
+	"Oregon"	"41"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	558
+	"Pennsylvania"	"42"	"2003"	"2003"	"Married"	"1"	"Excluded"	"999"	96412
+	"Pennsylvania"	"42"	"2003"	"2003"	"Unmarried"	"2"	"Excluded"	"999"	49547
+	"Pennsylvania"	"42"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	93765
+	"Pennsylvania"	"42"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	50983
+	"Pennsylvania"	"42"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	92255
+	"Pennsylvania"	"42"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	53128
+	"Pennsylvania"	"42"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	92025
+	"Pennsylvania"	"42"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	57065
+	"Rhode Island"	"44"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	164
+	"Rhode Island"	"44"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	288
+	"Rhode Island"	"44"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	1810
+	"Rhode Island"	"44"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	1529
+	"Rhode Island"	"44"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	4526
+	"Rhode Island"	"44"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	164
+	"Rhode Island"	"44"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	305
+	"Rhode Island"	"44"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1101
+	"Rhode Island"	"44"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	1885
+	"Rhode Island"	"44"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	754
+	"Rhode Island"	"44"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	502
+	"Rhode Island"	"44"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	181
+	"Rhode Island"	"44"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	134
+	"Rhode Island"	"44"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	295
+	"Rhode Island"	"44"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	1651
+	"Rhode Island"	"44"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	1335
+	"Rhode Island"	"44"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	4429
+	"Rhode Island"	"44"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	172
+	"Rhode Island"	"44"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	360
+	"Rhode Island"	"44"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1141
+	"Rhode Island"	"44"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	1898
+	"Rhode Island"	"44"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	741
+	"Rhode Island"	"44"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	478
+	"Rhode Island"	"44"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	145
+	"Rhode Island"	"44"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	127
+	"Rhode Island"	"44"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	239
+	"Rhode Island"	"44"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	1622
+	"Rhode Island"	"44"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	1320
+	"Rhode Island"	"44"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	4300
+	"Rhode Island"	"44"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	197
+	"Rhode Island"	"44"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	335
+	"Rhode Island"	"44"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1206
+	"Rhode Island"	"44"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	1887
+	"Rhode Island"	"44"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	813
+	"Rhode Island"	"44"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	499
+	"Rhode Island"	"44"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	152
+	"Rhode Island"	"44"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	156
+	"Rhode Island"	"44"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	287
+	"Rhode Island"	"44"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	1544
+	"Rhode Island"	"44"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	1355
+	"Rhode Island"	"44"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	3750
+	"Rhode Island"	"44"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	267
+	"Rhode Island"	"44"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	320
+	"Rhode Island"	"44"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1193
+	"Rhode Island"	"44"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	2019
+	"Rhode Island"	"44"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	742
+	"Rhode Island"	"44"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	517
+	"Rhode Island"	"44"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	222
+	"South Carolina"	"45"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	873
+	"South Carolina"	"45"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2585
+	"South Carolina"	"45"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	10374
+	"South Carolina"	"45"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	7051
+	"South Carolina"	"45"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	11771
+	"South Carolina"	"45"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	138
+	"South Carolina"	"45"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1181
+	"South Carolina"	"45"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6908
+	"South Carolina"	"45"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	10027
+	"South Carolina"	"45"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3526
+	"South Carolina"	"45"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	987
+	"South Carolina"	"45"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	228
+	"South Carolina"	"45"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	32865
+	"South Carolina"	"45"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	23725
+	"South Carolina"	"45"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	32714
+	"South Carolina"	"45"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	24997
+	"South Carolina"	"45"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	33806
+	"South Carolina"	"45"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	28365
+	"South Dakota"	"46"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	204
+	"South Dakota"	"46"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	309
+	"South Dakota"	"46"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	1989
+	"South Dakota"	"46"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	1859
+	"South Dakota"	"46"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	2898
+	"South Dakota"	"46"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	131
+	"South Dakota"	"46"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1073
+	"South Dakota"	"46"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	1693
+	"South Dakota"	"46"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	683
+	"South Dakota"	"46"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	185
+	"South Dakota"	"46"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	232
+	"South Dakota"	"46"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	337
+	"South Dakota"	"46"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	1895
+	"South Dakota"	"46"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	1946
+	"South Dakota"	"46"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	2946
+	"South Dakota"	"46"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	136
+	"South Dakota"	"46"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1107
+	"South Dakota"	"46"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	1765
+	"South Dakota"	"46"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	755
+	"South Dakota"	"46"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	211
+	"South Dakota"	"46"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	227
+	"South Dakota"	"46"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	313
+	"South Dakota"	"46"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	1943
+	"South Dakota"	"46"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	1843
+	"South Dakota"	"46"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	2943
+	"South Dakota"	"46"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	46
+	"South Dakota"	"46"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	126
+	"South Dakota"	"46"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	1161
+	"South Dakota"	"46"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	1891
+	"South Dakota"	"46"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	725
+	"South Dakota"	"46"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	203
+	"South Dakota"	"46"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	41
+	"South Dakota"	"46"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	7497
+	"South Dakota"	"46"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	4422
+	"Tennessee"	"47"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1402
+	"Tennessee"	"47"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	4403
+	"Tennessee"	"47"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	15437
+	"Tennessee"	"47"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	11360
+	"Tennessee"	"47"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	16743
+	"Tennessee"	"47"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	178
+	"Tennessee"	"47"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1686
+	"Tennessee"	"47"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	9171
+	"Tennessee"	"47"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	12724
+	"Tennessee"	"47"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4589
+	"Tennessee"	"47"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1078
+	"Tennessee"	"47"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	119
+	"Tennessee"	"47"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	49223
+	"Tennessee"	"47"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	30419
+	"Tennessee"	"47"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	48923
+	"Tennessee"	"47"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	32824
+	"Tennessee"	"47"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	49411
+	"Tennessee"	"47"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	34944
+	"Texas"	"48"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	22486
+	"Texas"	"48"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	37882
+	"Texas"	"48"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	68454
+	"Texas"	"48"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	45826
+	"Texas"	"48"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	69965
+	"Texas"	"48"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	3379
+	"Texas"	"48"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	14627
+	"Texas"	"48"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	44503
+	"Texas"	"48"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	47688
+	"Texas"	"48"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	15886
+	"Texas"	"48"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	4542
+	"Texas"	"48"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	2238
+	"Texas"	"48"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	21337
+	"Texas"	"48"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	37374
+	"Texas"	"48"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	66929
+	"Texas"	"48"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	44793
+	"Texas"	"48"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	70386
+	"Texas"	"48"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	3042
+	"Texas"	"48"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	14708
+	"Texas"	"48"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	46893
+	"Texas"	"48"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	51223
+	"Texas"	"48"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	17374
+	"Texas"	"48"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	4997
+	"Texas"	"48"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	2237
+	"Texas"	"48"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	240718
+	"Texas"	"48"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	145197
+	"Texas"	"48"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	242301
+	"Texas"	"48"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	157302
+	"Utah"	"49"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	915
+	"Utah"	"49"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2476
+	"Utah"	"49"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	11548
+	"Utah"	"49"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	13421
+	"Utah"	"49"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	12380
+	"Utah"	"49"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	530
+	"Utah"	"49"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	661
+	"Utah"	"49"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2896
+	"Utah"	"49"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	3506
+	"Utah"	"49"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1083
+	"Utah"	"49"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	216
+	"Utah"	"49"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	228
+	"Utah"	"49"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	932
+	"Utah"	"49"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	2367
+	"Utah"	"49"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	11712
+	"Utah"	"49"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	13260
+	"Utah"	"49"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	12869
+	"Utah"	"49"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	687
+	"Utah"	"49"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	618
+	"Utah"	"49"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2873
+	"Utah"	"49"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	3761
+	"Utah"	"49"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1099
+	"Utah"	"49"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	249
+	"Utah"	"49"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	243
+	"Utah"	"49"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	957
+	"Utah"	"49"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	2343
+	"Utah"	"49"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	11598
+	"Utah"	"49"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	13263
+	"Utah"	"49"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	13473
+	"Utah"	"49"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	814
+	"Utah"	"49"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	724
+	"Utah"	"49"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2906
+	"Utah"	"49"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	3747
+	"Utah"	"49"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1158
+	"Utah"	"49"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	254
+	"Utah"	"49"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	319
+	"Utah"	"49"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	949
+	"Utah"	"49"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2402
+	"Utah"	"49"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	11891
+	"Utah"	"49"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	13506
+	"Utah"	"49"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	13991
+	"Utah"	"49"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	694
+	"Utah"	"49"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	752
+	"Utah"	"49"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	3193
+	"Utah"	"49"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	4246
+	"Utah"	"49"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1304
+	"Utah"	"49"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	249
+	"Utah"	"49"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	327
+	"Vermont"	"50"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	35
+	"Vermont"	"50"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	135
+	"Vermont"	"50"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	1182
+	"Vermont"	"50"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	1018
+	"Vermont"	"50"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	2229
+	"Vermont"	"50"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	12
+	"Vermont"	"50"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	38
+	"Vermont"	"50"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	420
+	"Vermont"	"50"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	998
+	"Vermont"	"50"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	328
+	"Vermont"	"50"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	174
+	"Vermont"	"50"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	20
+	"Vermont"	"50"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	26
+	"Vermont"	"50"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	139
+	"Vermont"	"50"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	1116
+	"Vermont"	"50"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	875
+	"Vermont"	"50"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	2043
+	"Vermont"	"50"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	268
+	"Vermont"	"50"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	50
+	"Vermont"	"50"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	427
+	"Vermont"	"50"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	1019
+	"Vermont"	"50"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	340
+	"Vermont"	"50"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	173
+	"Vermont"	"50"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	123
+	"Vermont"	"50"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	4262
+	"Vermont"	"50"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	2033
+	"Vermont"	"50"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	4267
+	"Vermont"	"50"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	2244
+	"Virginia"	"51"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1667
+	"Virginia"	"51"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	3422
+	"Virginia"	"51"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	16998
+	"Virginia"	"51"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	15832
+	"Virginia"	"51"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	31729
+	"Virginia"	"51"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	790
+	"Virginia"	"51"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	2117
+	"Virginia"	"51"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	7415
+	"Virginia"	"51"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	13451
+	"Virginia"	"51"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5675
+	"Virginia"	"51"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1676
+	"Virginia"	"51"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	482
+	"Virginia"	"51"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	1738
+	"Virginia"	"51"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	3266
+	"Virginia"	"51"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	16763
+	"Virginia"	"51"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	15674
+	"Virginia"	"51"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	32667
+	"Virginia"	"51"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1622
+	"Virginia"	"51"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	2424
+	"Virginia"	"51"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	7677
+	"Virginia"	"51"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	13597
+	"Virginia"	"51"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5823
+	"Virginia"	"51"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1868
+	"Virginia"	"51"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	814
+	"Virginia"	"51"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1777
+	"Virginia"	"51"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	3268
+	"Virginia"	"51"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	16401
+	"Virginia"	"51"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	15250
+	"Virginia"	"51"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	32668
+	"Virginia"	"51"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1517
+	"Virginia"	"51"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	2858
+	"Virginia"	"51"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	7582
+	"Virginia"	"51"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	14346
+	"Virginia"	"51"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6088
+	"Virginia"	"51"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1927
+	"Virginia"	"51"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	873
+	"Virginia"	"51"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1788
+	"Virginia"	"51"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	3270
+	"Virginia"	"51"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	16707
+	"Virginia"	"51"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	15315
+	"Virginia"	"51"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	32849
+	"Virginia"	"51"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	1473
+	"Virginia"	"51"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	3172
+	"Virginia"	"51"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	8050
+	"Virginia"	"51"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	15516
+	"Virginia"	"51"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	6675
+	"Virginia"	"51"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	2189
+	"Virginia"	"51"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	813
+	"Washington"	"53"	"2003"	"2003"	"Married"	"1"	"Excluded"	"999"	57282
+	"Washington"	"53"	"2003"	"2003"	"Unmarried"	"2"	"Excluded"	"999"	23207
+	"Washington"	"53"	"2004"	"2004"	"Married"	"1"	"Excluded"	"999"	56929
+	"Washington"	"53"	"2004"	"2004"	"Unmarried"	"2"	"Excluded"	"999"	24818
+	"Washington"	"53"	"2005"	"2005"	"Married"	"1"	"Excluded"	"999"	57124
+	"Washington"	"53"	"2005"	"2005"	"Unmarried"	"2"	"Excluded"	"999"	25579
+	"Washington"	"53"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	59186
+	"Washington"	"53"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	27690
+	"West Virginia"	"54"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	193
+	"West Virginia"	"54"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	1312
+	"West Virginia"	"54"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	4964
+	"West Virginia"	"54"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	3447
+	"West Virginia"	"54"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	3598
+	"West Virginia"	"54"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	186
+	"West Virginia"	"54"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	251
+	"West Virginia"	"54"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2089
+	"West Virginia"	"54"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	3121
+	"West Virginia"	"54"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1331
+	"West Virginia"	"54"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	314
+	"West Virginia"	"54"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	129
+	"West Virginia"	"54"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	197
+	"West Virginia"	"54"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	1301
+	"West Virginia"	"54"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	4695
+	"West Virginia"	"54"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	3461
+	"West Virginia"	"54"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	3616
+	"West Virginia"	"54"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	338
+	"West Virginia"	"54"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	254
+	"West Virginia"	"54"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2083
+	"West Virginia"	"54"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	3170
+	"West Virginia"	"54"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1257
+	"West Virginia"	"54"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	318
+	"West Virginia"	"54"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	190
+	"West Virginia"	"54"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	160
+	"West Virginia"	"54"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	1211
+	"West Virginia"	"54"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	4429
+	"West Virginia"	"54"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	3253
+	"West Virginia"	"54"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	3832
+	"West Virginia"	"54"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	341
+	"West Virginia"	"54"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	271
+	"West Virginia"	"54"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2095
+	"West Virginia"	"54"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	3286
+	"West Virginia"	"54"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1382
+	"West Virginia"	"54"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	384
+	"West Virginia"	"54"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	192
+	"West Virginia"	"54"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	154
+	"West Virginia"	"54"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	1162
+	"West Virginia"	"54"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	4211
+	"West Virginia"	"54"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	3040
+	"West Virginia"	"54"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	3843
+	"West Virginia"	"54"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	584
+	"West Virginia"	"54"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	278
+	"West Virginia"	"54"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	2192
+	"West Virginia"	"54"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	3344
+	"West Virginia"	"54"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	1379
+	"West Virginia"	"54"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	429
+	"West Virginia"	"54"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	315
+	"Wisconsin"	"55"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	1609
+	"Wisconsin"	"55"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	2199
+	"Wisconsin"	"55"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	11648
+	"Wisconsin"	"55"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	12688
+	"Wisconsin"	"55"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	20462
+	"Wisconsin"	"55"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	134
+	"Wisconsin"	"55"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	861
+	"Wisconsin"	"55"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6203
+	"Wisconsin"	"55"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	9095
+	"Wisconsin"	"55"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	3955
+	"Wisconsin"	"55"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	1067
+	"Wisconsin"	"55"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	119
+	"Wisconsin"	"55"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	1667
+	"Wisconsin"	"55"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	2192
+	"Wisconsin"	"55"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	10850
+	"Wisconsin"	"55"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	12663
+	"Wisconsin"	"55"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	20690
+	"Wisconsin"	"55"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	137
+	"Wisconsin"	"55"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	937
+	"Wisconsin"	"55"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6092
+	"Wisconsin"	"55"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	9436
+	"Wisconsin"	"55"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4202
+	"Wisconsin"	"55"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	1131
+	"Wisconsin"	"55"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	149
+	"Wisconsin"	"55"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	1769
+	"Wisconsin"	"55"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	2126
+	"Wisconsin"	"55"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	10652
+	"Wisconsin"	"55"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	12040
+	"Wisconsin"	"55"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	21187
+	"Wisconsin"	"55"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	154
+	"Wisconsin"	"55"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	937
+	"Wisconsin"	"55"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6064
+	"Wisconsin"	"55"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	9871
+	"Wisconsin"	"55"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	4614
+	"Wisconsin"	"55"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	1349
+	"Wisconsin"	"55"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	221
+	"Wisconsin"	"55"	"2006"	"2006"	"Married"	"1"	"0 -  8 years"	"19176"	1922
+	"Wisconsin"	"55"	"2006"	"2006"	"Married"	"1"	"9 - 11 years"	"19177"	2048
+	"Wisconsin"	"55"	"2006"	"2006"	"Married"	"1"	"12 years"	"19178"	10232
+	"Wisconsin"	"55"	"2006"	"2006"	"Married"	"1"	"13 - 15 years"	"19179"	12652
+	"Wisconsin"	"55"	"2006"	"2006"	"Married"	"1"	"16 years and over"	"16+"	20625
+	"Wisconsin"	"55"	"2006"	"2006"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	225
+	"Wisconsin"	"55"	"2006"	"2006"	"Unmarried"	"2"	"0 -  8 years"	"19176"	1016
+	"Wisconsin"	"55"	"2006"	"2006"	"Unmarried"	"2"	"9 - 11 years"	"19177"	6155
+	"Wisconsin"	"55"	"2006"	"2006"	"Unmarried"	"2"	"12 years"	"19178"	10504
+	"Wisconsin"	"55"	"2006"	"2006"	"Unmarried"	"2"	"13 - 15 years"	"19179"	5266
+	"Wisconsin"	"55"	"2006"	"2006"	"Unmarried"	"2"	"16 years and over"	"16+"	1421
+	"Wisconsin"	"55"	"2006"	"2006"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	274
+	"Wyoming"	"56"	"2003"	"2003"	"Married"	"1"	"0 -  8 years"	"19176"	47
+	"Wyoming"	"56"	"2003"	"2003"	"Married"	"1"	"9 - 11 years"	"19177"	342
+	"Wyoming"	"56"	"2003"	"2003"	"Married"	"1"	"12 years"	"19178"	1350
+	"Wyoming"	"56"	"2003"	"2003"	"Married"	"1"	"13 - 15 years"	"19179"	1458
+	"Wyoming"	"56"	"2003"	"2003"	"Married"	"1"	"16 years and over"	"16+"	1289
+	"Wyoming"	"56"	"2003"	"2003"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	28
+	"Wyoming"	"56"	"2003"	"2003"	"Unmarried"	"2"	"0 -  8 years"	"19176"	58
+	"Wyoming"	"56"	"2003"	"2003"	"Unmarried"	"2"	"9 - 11 years"	"19177"	619
+	"Wyoming"	"56"	"2003"	"2003"	"Unmarried"	"2"	"12 years"	"19178"	957
+	"Wyoming"	"56"	"2003"	"2003"	"Unmarried"	"2"	"13 - 15 years"	"19179"	454
+	"Wyoming"	"56"	"2003"	"2003"	"Unmarried"	"2"	"16 years and over"	"16+"	85
+	"Wyoming"	"56"	"2003"	"2003"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	13
+	"Wyoming"	"56"	"2004"	"2004"	"Married"	"1"	"0 -  8 years"	"19176"	40
+	"Wyoming"	"56"	"2004"	"2004"	"Married"	"1"	"9 - 11 years"	"19177"	313
+	"Wyoming"	"56"	"2004"	"2004"	"Married"	"1"	"12 years"	"19178"	1319
+	"Wyoming"	"56"	"2004"	"2004"	"Married"	"1"	"13 - 15 years"	"19179"	1534
+	"Wyoming"	"56"	"2004"	"2004"	"Married"	"1"	"16 years and over"	"16+"	1393
+	"Wyoming"	"56"	"2004"	"2004"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	50
+	"Wyoming"	"56"	"2004"	"2004"	"Unmarried"	"2"	"0 -  8 years"	"19176"	52
+	"Wyoming"	"56"	"2004"	"2004"	"Unmarried"	"2"	"9 - 11 years"	"19177"	631
+	"Wyoming"	"56"	"2004"	"2004"	"Unmarried"	"2"	"12 years"	"19178"	923
+	"Wyoming"	"56"	"2004"	"2004"	"Unmarried"	"2"	"13 - 15 years"	"19179"	448
+	"Wyoming"	"56"	"2004"	"2004"	"Unmarried"	"2"	"16 years and over"	"16+"	79
+	"Wyoming"	"56"	"2004"	"2004"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	25
+	"Wyoming"	"56"	"2005"	"2005"	"Married"	"1"	"0 -  8 years"	"19176"	56
+	"Wyoming"	"56"	"2005"	"2005"	"Married"	"1"	"9 - 11 years"	"19177"	312
+	"Wyoming"	"56"	"2005"	"2005"	"Married"	"1"	"12 years"	"19178"	1388
+	"Wyoming"	"56"	"2005"	"2005"	"Married"	"1"	"13 - 15 years"	"19179"	1550
+	"Wyoming"	"56"	"2005"	"2005"	"Married"	"1"	"16 years and over"	"16+"	1446
+	"Wyoming"	"56"	"2005"	"2005"	"Married"	"1"	"Not stated/Not on certificate"	"NR"	111
+	"Wyoming"	"56"	"2005"	"2005"	"Unmarried"	"2"	"0 -  8 years"	"19176"	66
+	"Wyoming"	"56"	"2005"	"2005"	"Unmarried"	"2"	"9 - 11 years"	"19177"	631
+	"Wyoming"	"56"	"2005"	"2005"	"Unmarried"	"2"	"12 years"	"19178"	996
+	"Wyoming"	"56"	"2005"	"2005"	"Unmarried"	"2"	"13 - 15 years"	"19179"	516
+	"Wyoming"	"56"	"2005"	"2005"	"Unmarried"	"2"	"16 years and over"	"16+"	110
+	"Wyoming"	"56"	"2005"	"2005"	"Unmarried"	"2"	"Not stated/Not on certificate"	"NR"	57
+	"Wyoming"	"56"	"2006"	"2006"	"Married"	"1"	"Excluded"	"999"	5142
+	"Wyoming"	"56"	"2006"	"2006"	"Unmarried"	"2"	"Excluded"	"999"	2530
+"---"
+"Dataset: Natality, 2003-2006"
+"Query Parameters:"
+"Group By: State; Year; Marital Status; Mother's Education"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Jul 5, 2022 11:01:45 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2003-2006, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-v2006.html on Jul 5, 2022 11:01:45 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/Natality.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
+"3. <p> About Education and Prenatal Care data: Education and Prenatal Care data have been recoded to ""Excluded"" for births to"
+"mothers residing in a reporting area that used the 2003 U.S. Standard Certificate of Live Birth in the specified data year. All"
+"reporting areas collect information on Education and Prenatal care, but information from the 2003 revision of the birth"
+"certificate is not comparable to the information based on the earlier certificate, which in years 2003 - 2006 was still used by"
+"a majority of the reporting areas. The following reporting areas have Education and Prenatal Care data coded to ""Excluded"":"
+"Pennsylvania and Washington state for births that occurred in 2003; Florida, Idaho, Kentucky, New Hampshire, New York (excluding"
+"New York City), Pennsylvania, South Carolina, Tennessee, and Washington state for births that occurred in 2004; Florida, Idaho,"
+"Kansas, Kentucky, Nebraska, New Hampshire, New York (excluding New York City), Pennsylvania, South Carolina, Tennessee, Texas,"
+"Vermont, and Washington for births that occurred in 2005; California (education data only), Delaware, Florida, Idaho, Kansas,"
+"Kentucky, Nebraska, New Hampshire, New York (excluding New York City), North Dakota, Ohio, Pennsylvania, South Carolina, South"
+"Dakota, Tennessee, Texas, Vermont, Washington and Wyoming for births that occurred in 2006. </p><p> Education and Prenatal Care"
+"data for births to mothers residing in a reporting area that used the 2003 U.S. Standard Certificate of Live Birth are available"
+"online using the VitalStats data access tool at http://www.cdc.gov/nchs/VitalStats.htm. </p>"
